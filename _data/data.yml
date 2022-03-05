@@ -9,29 +9,22 @@ sidebar:
     # Profile information
     name: Spiros Mpalomenos
     tagline: Computer Science Student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: heisencat.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: p17balo@ionio.gr
     phone: 69......
-    website: blog.webjeda.com #do not add http://
     github: p17balo
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Greek
         level: Native
 
-      - idiom: French
-        level: Amateur
-
       - idiom: English
         level: Professional
+
+      - idiom: French
+        level: Amateur
 
     interests:
       - item: Cycling
@@ -40,44 +33,41 @@ sidebar:
       - item: Reading
         link:
 
-      - item: listening to music
+      - item: Drawing
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-    I study Computer Science In Ionian Univercity and i also work in Public stores in computer repairs. When i get my degree iwould like to become a University teacher.
+      I am a student of computer science at Ionio Universityand i also work in 'Public' stores in computer repairs.
+      When i get my degree i would like to become a University teacher.
 education:
-    - degree: Student of Computer Science
-      university: Ionian University
-      time: 2017 -  present
-      details: 
+    - degree: Computer Science
+      university: Ionio University
+      time: 2017 - Present
 experiences:
-    - role: web design 
-      time: 2020 - present
+    - role: web Designer
+      time: 2020 - Present
       details: |
-        I have desine a wedsite, an e-shop, for a university lesson which is called digital marketing. in this e-shop, i have use wordpress to create my site, with special plugins to edit it.
-          - Bullet point
-          - Bullet point
-
+        I can build websites or an E-shop.I made my first on e-shop in university. I have the knowledge to use wordpess for building.
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 58%
+      - name: Python & Django
+        level: 81%
 
-      - name: Javascript
-        level: 63%
+      - name: Javascript & jQuery
+        level: 70%
 
-      - name: Angular
-        level: 73%
+      - name: Scratch
+        level: 65%
 
-      - name: HTML5 & CSS
-        level: 77%
+      - name: Wordpress
+        level: 90%
 
       - name: Sketch & Photoshop
-        level: 60%
-
+        level: 81%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com/" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
